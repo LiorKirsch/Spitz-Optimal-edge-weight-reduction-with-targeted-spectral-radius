@@ -4,8 +4,10 @@ This code implements the Spitz method as published in XXXXX [link]
 
 Check `example.m` for an example usage
 
-The methods expects two variables: the adjacency matrix `A` and the spectral radius `beta`
-There is also the optional `options` parameter.
+The methods expects three variables: 
+* Tthe adjacency matrix `A` 
+* The spectral radius `beta`
+* An option structure `options` (optional)
 
 First import two folders
 ```matlab
