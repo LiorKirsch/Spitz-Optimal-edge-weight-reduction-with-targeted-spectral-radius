@@ -1,0 +1,240 @@
+"URL","Code","Name","Category","Format","Weights","Metadata","Vertices","Edges","UniqueEdges"
+"http://konect.uni-koblenz.de/downloads/tsv/actor-collaboration.tar.bz2","CL","Actor collaborations","Misc ~ Misc",1,2,0,382219,33115812,30076166
+"http://konect.uni-koblenz.de/downloads/tsv/actor-movie.tar.bz2","AM","Actor movies","Affiliation ~ Affiliation",3,1,0,511463,1470418,1470404
+"http://konect.uni-koblenz.de/downloads/tsv/moreno_health.tar.bz2","ME","Adolescent health","HumanSocial ~ HumanSocial",2,3,0,2539,12969,12969
+"http://konect.uni-koblenz.de/downloads/tsv/advogato.tar.bz2","AD","Advogato","Social ~ Social",2,3,2,6541,51127,51127
+"http://konect.uni-koblenz.de/downloads/tsv/maayan-faa.tar.bz2","TC","Air traffic control","Infrastructure ~ Infrastructure",2,1,1,1226,2615,2615
+"http://konect.uni-koblenz.de/downloads/tsv/com-amazon.tar.bz2","CA","Amazon (MDS)","Misc ~ Misc",1,1,0,334863,925872,925872
+"http://konect.uni-koblenz.de/downloads/tsv/amazon0601.tar.bz2","Am","Amazon (TWEB)","Misc ~ Misc",2,1,0,403394,3387388,3387388
+"http://konect.uni-koblenz.de/downloads/tsv/amazon-ratings.tar.bz2","AR","Amazon ratings","Rating ~ Rating",3,6,2,3376972,5838041,5743258
+"http://konect.uni-koblenz.de/downloads/tsv/brunson_revolution.tar.bz2","Ar","American Revolution","Affiliation ~ Affiliation",3,1,0,141,160,160
+"http://konect.uni-koblenz.de/downloads/tsv/ca-AstroPh.tar.bz2","AP","arXiv astro-ph","Coauthorship ~ Coauthorship",1,1,0,18771,198050,198050
+"http://konect.uni-koblenz.de/downloads/tsv/opsahl-collaboration.tar.bz2","AC","arXiv cond-mat","Authorship ~ Authorship",3,1,0,38741,58595,58595
+"http://konect.uni-koblenz.de/downloads/tsv/ca-cit-HepPh.tar.bz2","PH","arXiv hep-ph","Coauthorship ~ Coauthorship",1,1,1,28093,4596803,3148447
+"http://konect.uni-koblenz.de/downloads/tsv/cit-HepPh.tar.bz2","PHc","arXiv hep-ph","Citation ~ Citation",2,1,1,34546,421578,421578
+"http://konect.uni-koblenz.de/downloads/tsv/cit-HepTh.tar.bz2","THc","arXiv hep-th","Citation ~ Citation",2,1,1,27770,352807,352807
+"http://konect.uni-koblenz.de/downloads/tsv/ca-cit-HepTh.tar.bz2","TH","arXiv hep-th","Coauthorship ~ Coauthorship",1,1,1,22908,2673133,2444798
+"http://konect.uni-koblenz.de/downloads/tsv/zhishi-baidu-internallink.tar.bz2","BAi","Baidu internal links","Hyperlink ~ Hyperlink",2,2,1,2141300,17794839,17643697
+"http://konect.uni-koblenz.de/downloads/tsv/zhishi-baidu-relatedpages.tar.bz2","BAr","Baidu related pages","Hyperlink ~ Hyperlink",2,2,1,415641,3284387,3284335
+"http://konect.uni-koblenz.de/downloads/tsv/web-BerkStan.tar.bz2","BS","Berkeley/Stanford","Hyperlink ~ Hyperlink",2,1,0,685230,7600595,7600595
+"http://konect.uni-koblenz.de/downloads/tsv/bibsonomy-2ti.tar.bz2","Bti","BibSonomy tag–publication","Folksonomy ~ Folksonomy",3,2,2,972120,2555080,2499057
+"http://konect.uni-koblenz.de/downloads/tsv/bibsonomy-2ui.tar.bz2","Bui","BibSonomy user–publication","Folksonomy ~ Folksonomy",3,2,2,773241,2555080,801784
+"http://konect.uni-koblenz.de/downloads/tsv/bibsonomy-2ut.tar.bz2","But","BibSonomy user–tag","Folksonomy ~ Folksonomy",3,2,2,210467,2555080,453987
+"http://konect.uni-koblenz.de/downloads/tsv/moreno_bison.tar.bz2","MB","Bison","Animal ~ Animal",2,3,0,26,314,314
+"http://konect.uni-koblenz.de/downloads/tsv/moreno_blogs.tar.bz2","Mg","Blogs","Hyperlink ~ Hyperlink",2,1,1,1490,2220035,2220035
+"http://konect.uni-koblenz.de/downloads/tsv/bookcrossing_full-rating.tar.bz2","BX","BookCrossing (implicit)","Rating ~ Rating",3,1,1,445801,1149739,1149739
+"http://konect.uni-koblenz.de/downloads/tsv/bookcrossing_rating.tar.bz2","Bx","BookCrossing (ratings)","Rating ~ Rating",3,6,1,263757,433652,433652
+"http://konect.uni-koblenz.de/downloads/tsv/loc-brightkite_edges.tar.bz2","BK","Brightkite","Social ~ Social",1,1,0,58228,214078,214078
+"http://konect.uni-koblenz.de/downloads/tsv/arenas-meta.tar.bz2","PM","Caenorhabditis elegans","Metabolic ~ Metabolic",1,2,1,453,4596,2040
+"http://konect.uni-koblenz.de/downloads/tsv/as-caida20071105.tar.bz2","IN","CAIDA","Computer ~ Computer",1,1,1,26475,53381,53381
+"http://konect.uni-koblenz.de/downloads/tsv/roadNet-CA.tar.bz2","RO","California","Infrastructure ~ Infrastructure",1,1,0,1965206,2766607,2766607
+"http://konect.uni-koblenz.de/downloads/tsv/petster-friendships-cat.tar.bz2","Sc","Catster Friendships","Social ~ Social",1,1,2,149700,5449275,5449275
+"http://konect.uni-koblenz.de/downloads/tsv/petster-carnivore.tar.bz2","Scd","Catster/Dogster Familylinks/Friendships","Social ~ Social",1,1,2,623766,15699276,15699276
+"http://konect.uni-koblenz.de/downloads/tsv/moreno_cattle.tar.bz2","MA","Cattle","Animal ~ Animal",2,3,0,28,217,217
+"http://konect.uni-koblenz.de/downloads/tsv/zhishi-zhwiki-internallink.tar.bz2","ZHi","Chinese Wikipedia internal links","Hyperlink ~ Hyperlink",2,2,1,1930275,9359108,9358178
+"http://konect.uni-koblenz.de/downloads/tsv/citeseer.tar.bz2","CS","CiteSeer","Citation ~ Citation",2,1,1,384413,1751463,1751463
+"http://konect.uni-koblenz.de/downloads/tsv/citeulike-ti.tar.bz2","Cti","CiteULike tag–publication","Folksonomy ~ Folksonomy",3,2,1,885046,2411819,2338554
+"http://konect.uni-koblenz.de/downloads/tsv/citeulike-ui.tar.bz2","Cui","CiteULike user–publication","Folksonomy ~ Folksonomy",3,2,1,754484,2411819,842426
+"http://konect.uni-koblenz.de/downloads/tsv/citeulike-ut.tar.bz2","Cut","CiteULike user–tag","Folksonomy ~ Folksonomy",3,2,1,175992,2411819,538761
+"http://konect.uni-koblenz.de/downloads/tsv/brunson_club-membership.tar.bz2","BM","Club membership","Affiliation ~ Affiliation",3,1,0,40,95,95
+"http://konect.uni-koblenz.de/downloads/tsv/contiguous-usa.tar.bz2","CU","Contiguous USA","Infrastructure ~ Infrastructure",1,1,0,49,107,107
+"http://konect.uni-koblenz.de/downloads/tsv/subelj_cora.tar.bz2","CC","Cora citation","Citation ~ Citation",2,1,1,23166,91500,91500
+"http://konect.uni-koblenz.de/downloads/tsv/brunson_corporate-leadership.tar.bz2","BC","Corporate Leadership","Affiliation ~ Affiliation",3,1,0,44,99,99
+"http://konect.uni-koblenz.de/downloads/tsv/dbpedia-country.tar.bz2","CN","Countries","Affiliation ~ Affiliation",3,2,0,592414,637134,624402
+"http://konect.uni-koblenz.de/downloads/tsv/moreno_crime.tar.bz2","MC","Crime","Interaction ~ Interaction",3,1,1,1380,1476,1476
+"http://konect.uni-koblenz.de/downloads/tsv/adjnoun_adjacency.tar.bz2","AN","David Copperfield","Lexical ~ Lexical",1,1,2,112,425,425
+"http://konect.uni-koblenz.de/downloads/tsv/dblp-cite.tar.bz2","Pi","DBLP","Citation ~ Citation",2,1,1,12591,49743,49743
+"http://konect.uni-koblenz.de/downloads/tsv/dblp_coauthor.tar.bz2","Pc","DBLP","Coauthorship ~ Coauthorship",1,2,2,1314050,18986618,10724828
+"http://konect.uni-koblenz.de/downloads/tsv/dblp-author.tar.bz2","Pa","DBLP","Authorship ~ Authorship",3,1,0,5425963,8649016,8649016
+"http://konect.uni-koblenz.de/downloads/tsv/com-dblp.tar.bz2","CD","DBLP co-authorship","Coauthorship ~ Coauthorship",1,1,0,317080,1049866,1049866
+"http://konect.uni-koblenz.de/downloads/tsv/dbpedia-all.tar.bz2","DB","DBpedia","Misc ~ Misc",2,2,0,3966924,13820853,12860157
+"http://konect.uni-koblenz.de/downloads/tsv/dbpedia-genre.tar.bz2","GE","DBpedia genre","Feature ~ Feature",3,1,0,266717,463497,463497
+"http://konect.uni-koblenz.de/downloads/tsv/delicious-ti.tar.bz2","Dti","Delicious tag–URL","Folksonomy ~ Folksonomy",3,2,3,38289740,301183605,137240382
+"http://konect.uni-koblenz.de/downloads/tsv/delicious-ut.tar.bz2","Dut","Delicious user–tag","Folksonomy ~ Folksonomy",3,2,3,5345180,301186579,81989133
+"http://konect.uni-koblenz.de/downloads/tsv/delicious-ui.tar.bz2","Dui","Delicious user–URL","Folksonomy ~ Folksonomy",3,2,3,34611302,301186579,101798957
+"http://konect.uni-koblenz.de/downloads/tsv/munmun_digg_reply.tar.bz2","DG","Digg","Communication ~ Communication",2,2,2,30398,87627,86404
+"http://konect.uni-koblenz.de/downloads/tsv/digg-friends.tar.bz2","DF","Digg friends","Social ~ Social",2,1,1,279630,1731653,1731653
+"http://konect.uni-koblenz.de/downloads/tsv/digg-votes.tar.bz2","DV","Digg votes","Rating ~ Rating",3,2,1,142962,3018197,3010898
+"http://konect.uni-koblenz.de/downloads/tsv/discogs_affiliation.tar.bz2","Dl","Discogs","Affiliation ~ Affiliation",3,2,1,2025594,14414659,5302276
+"http://konect.uni-koblenz.de/downloads/tsv/discogs_genre.tar.bz2","Da","Discogs artist–genre","Feature ~ Feature",3,2,1,1754838,19033891,3142059
+"http://konect.uni-koblenz.de/downloads/tsv/discogs_style.tar.bz2","Dt","Discogs artist–style","Feature ~ Feature",3,2,1,1618326,24085580,5740842
+"http://konect.uni-koblenz.de/downloads/tsv/discogs_lgenre.tar.bz2","Dr","Discogs label–genre","Feature ~ Feature",3,2,1,270786,4147665,481661
+"http://konect.uni-koblenz.de/downloads/tsv/discogs_lstyle.tar.bz2","Ds","Discogs label–style","Feature ~ Feature",3,2,1,244147,5255950,1064853
+"http://konect.uni-koblenz.de/downloads/tsv/petster-friendships-dog.tar.bz2","Sd","Dogster Friendships","Social ~ Social",1,1,2,426820,8546581,8546581
+"http://konect.uni-koblenz.de/downloads/tsv/dolphins.tar.bz2","DO","Dolphins","Animal ~ Animal",1,1,0,62,159,159
+"http://konect.uni-koblenz.de/downloads/tsv/moreno_vdb.tar.bz2","Mv","Dutch college","HumanSocial ~ HumanSocial",2,4,1,32,3062,354
+"http://konect.uni-koblenz.de/downloads/tsv/eat.tar.bz2","EA","Edinburgh Associative Thesaurus","Lexical ~ Lexical",2,2,2,23132,312342,312310
+"http://konect.uni-koblenz.de/downloads/tsv/enron.tar.bz2","EN","Enron","Communication ~ Communication",2,2,2,87273,1148072,321918
+"http://konect.uni-koblenz.de/downloads/tsv/soc-Epinions1.tar.bz2","ES","Epinions","Social ~ Social",2,1,0,75879,508837,508837
+"http://konect.uni-koblenz.de/downloads/tsv/epinions-rating.tar.bz2","ER","Epinions product ratings","Rating ~ Rating",3,6,1,876252,13668320,13668320
+"http://konect.uni-koblenz.de/downloads/tsv/epinions.tar.bz2","EP","Epinions trust","Social ~ Social",2,4,2,131828,841372,841372
+"http://konect.uni-koblenz.de/downloads/tsv/email-EuAll.tar.bz2","EU","EU institution","Communication ~ Communication",2,1,2,265214,420045,420045
+"http://konect.uni-koblenz.de/downloads/tsv/subelj_euroroad.tar.bz2","ET","Euroroad","Infrastructure ~ Infrastructure",1,1,1,1174,1417,1417
+"http://konect.uni-koblenz.de/downloads/tsv/ego-facebook.tar.bz2","EF","Facebook (NIPS)","Social ~ Social",1,1,0,2888,2981,2981
+"http://konect.uni-koblenz.de/downloads/tsv/facebook-wosn-links.tar.bz2","Ol","Facebook friendships","Social ~ Social",1,1,2,63731,817035,817035
+"http://konect.uni-koblenz.de/downloads/tsv/facebook-wosn-wall.tar.bz2","Ow","Facebook wall posts","Communication ~ Communication",2,2,2,46952,876993,274086
+,"Ff","Filmtipset","Social ~ Social",1,1,0,39199,87415,
+,"Fc","Filmtipset","Interaction ~ Interaction",3,2,1,75360,1266753,
+,"Fr","Filmtipset","Rating ~ Rating",3,6,1,144671,19554219,
+"http://konect.uni-koblenz.de/downloads/tsv/flickr-growth.tar.bz2","FL","Flickr","Social ~ Social",2,1,1,2302925,33140017,33140017
+"http://konect.uni-koblenz.de/downloads/tsv/flickrEdges.tar.bz2","FI","Flickr","Misc ~ Misc",1,1,0,105938,2316948,2316948
+"http://konect.uni-koblenz.de/downloads/tsv/flickr-groupmemberships.tar.bz2","FG","Flickr","Affiliation ~ Affiliation",3,1,0,499610,8545307,8545307
+"http://konect.uni-koblenz.de/downloads/tsv/flickr-links.tar.bz2","LF","Flickr links","Social ~ Social",1,1,0,1715255,15550782,15550782
+"http://konect.uni-koblenz.de/downloads/tsv/foodweb-baydry.tar.bz2","FD","Florida ecosystem dry","Trophic ~ Trophic",2,3,0,128,2137,2137
+"http://konect.uni-koblenz.de/downloads/tsv/foodweb-baywet.tar.bz2","FW","Florida ecosystem wet","Trophic ~ Trophic",2,3,0,128,2106,2106
+"http://konect.uni-koblenz.de/downloads/tsv/friendster.tar.bz2","FR","Friendster","Social ~ Social",2,1,1,68349466,2586147869,
+"http://konect.uni-koblenz.de/downloads/tsv/github.tar.bz2","GH","Github","Authorship ~ Authorship",3,1,1,177386,440237,440237
+"http://konect.uni-koblenz.de/downloads/tsv/p2p-Gnutella31.tar.bz2","GN","Gnutella","Computer ~ Computer",2,1,0,62586,147892,147892
+"http://konect.uni-koblenz.de/downloads/tsv/web-Google.tar.bz2","GO","Google","Hyperlink ~ Hyperlink",2,1,0,875713,5105039,5105039
+"http://konect.uni-koblenz.de/downloads/tsv/ego-gplus.tar.bz2","GP","Google+","Social ~ Social",2,1,0,23628,39242,39242
+"http://konect.uni-koblenz.de/downloads/tsv/cfinder-google.tar.bz2","GC","Google.com internal","Hyperlink ~ Hyperlink",2,1,2,15763,171206,171206
+"http://konect.uni-koblenz.de/downloads/tsv/loc-gowalla_edges.tar.bz2","GW","Gowalla","Social ~ Social",1,1,0,196591,950327,950327
+"http://konect.uni-koblenz.de/downloads/tsv/contact.tar.bz2","HA","Haggle","HumanContact ~ HumanContact",1,2,1,274,28244,2899
+"http://konect.uni-koblenz.de/downloads/tsv/petster-friendships-hamster.tar.bz2","Shf","Hamsterster friendships","Social ~ Social",1,1,1,1858,12534,12534
+"http://konect.uni-koblenz.de/downloads/tsv/petster-hamster.tar.bz2","Sh","Hamsterster full","Social ~ Social",1,1,1,2426,16631,16631
+"http://konect.uni-koblenz.de/downloads/tsv/moreno_hens.tar.bz2","Mh","Hens","Animal ~ Animal",2,1,0,32,496,496
+"http://konect.uni-koblenz.de/downloads/tsv/ucidata-gama.tar.bz2","HT","Highland tribes","HumanSocial ~ HumanSocial",1,4,0,16,58,58
+"http://konect.uni-koblenz.de/downloads/tsv/moreno_highschool.tar.bz2","MH","Highschool","HumanSocial ~ HumanSocial",2,3,0,70,366,366
+"http://konect.uni-koblenz.de/downloads/tsv/zhishi-hudong-internallink.tar.bz2","HUi","Hudong internal links","Hyperlink ~ Hyperlink",2,2,1,1984484,14869484,14869484
+"http://konect.uni-koblenz.de/downloads/tsv/zhishi-hudong-relatedpages.tar.bz2","HUr","Hudong related pages","Hyperlink ~ Hyperlink",2,1,1,2452715,18854882,18854882
+"http://konect.uni-koblenz.de/downloads/tsv/maayan-figeys.tar.bz2","MF","Human protein (Figeys)","Metabolic ~ Metabolic",2,1,0,2239,6452,6452
+"http://konect.uni-koblenz.de/downloads/tsv/maayan-Stelzl.tar.bz2","MS","Human protein (Stelzl)","Metabolic ~ Metabolic",2,1,1,1706,6207,6207
+"http://konect.uni-koblenz.de/downloads/tsv/maayan-vidal.tar.bz2","MV","Human protein (Vidal)","Metabolic ~ Metabolic",1,1,1,3133,6726,6726
+"http://konect.uni-koblenz.de/downloads/tsv/sociopatterns-hypertext.tar.bz2","HY","Hypertext 2009","HumanContact ~ HumanContact",1,2,1,113,20818,2196
+"http://konect.uni-koblenz.de/downloads/tsv/sociopatterns-infectious.tar.bz2","If","Infectious","HumanContact ~ HumanContact",1,2,1,410,17298,2765
+"http://konect.uni-koblenz.de/downloads/tsv/topology.tar.bz2","TO","Internet topology","Computer ~ Computer",1,2,2,34761,171403,114496
+"http://konect.uni-koblenz.de/downloads/tsv/arenas-jazz.tar.bz2","JZ","Jazz musicians","HumanSocial ~ HumanSocial",1,1,1,198,2742,2742
+"http://konect.uni-koblenz.de/downloads/tsv/subelj_jdk.tar.bz2","DJ","JDK dependency","Software ~ Software",2,2,1,6434,150985,53892
+"http://konect.uni-koblenz.de/downloads/tsv/jester1.tar.bz2","J1","Jester 100","Rating ~ Rating",3,6,0,73521,4136360,4123756
+"http://konect.uni-koblenz.de/downloads/tsv/jester2.tar.bz2","J2","Jester 150","Rating ~ Rating",3,6,0,50832,1728847,1725047
+"http://konect.uni-koblenz.de/downloads/tsv/subelj_jung-j.tar.bz2","Dj","JUNG and javax dependency","Software ~ Software",2,2,1,6120,138706,50535
+"http://konect.uni-koblenz.de/downloads/tsv/moreno_kangaroo.tar.bz2","MK","Kangaroo","Animal ~ Animal",1,3,0,17,91,91
+"http://konect.uni-koblenz.de/downloads/tsv/moreno_names.tar.bz2","MN","King James","Lexical ~ Lexical",1,3,0,1773,9131,9131
+"http://konect.uni-koblenz.de/downloads/tsv/lastfm_band.tar.bz2","Lb","Last.fm band","Interaction ~ Interaction",3,2,1,175069,19150868,898062
+"http://konect.uni-koblenz.de/downloads/tsv/lastfm_song.tar.bz2","Ls","Last.fm song","Interaction ~ Interaction",3,2,1,1085612,19150868,4413834
+"http://konect.uni-koblenz.de/downloads/tsv/moreno_lesmis.tar.bz2","Ml","Les Misérables","Misc ~ Misc",1,3,0,77,254,254
+"http://konect.uni-koblenz.de/downloads/tsv/libimseti.tar.bz2","LI","Libimseti.cz","Social ~ Social",2,6,0,220970,17359346,17359346
+"http://konect.uni-koblenz.de/downloads/tsv/linux.tar.bz2","LX","Linux","Software ~ Software",2,1,1,30837,230213,213954
+"http://konect.uni-koblenz.de/downloads/tsv/lkml-reply.tar.bz2","Lk","Linux kernel mailing list replies","Communication ~ Communication",2,2,3,63399,1096440,242976
+"http://konect.uni-koblenz.de/downloads/tsv/lkml_person-thread.tar.bz2","LK","Linux kernel mailing list threads","Interaction ~ Interaction",3,2,1,379554,1565683,599858
+"http://konect.uni-koblenz.de/downloads/tsv/maayan-foodweb.tar.bz2","ML","Little Rock Lake","Trophic ~ Trophic",2,1,1,183,2494,2494
+"http://konect.uni-koblenz.de/downloads/tsv/soc-LiveJournal1.tar.bz2","LJ","LiveJournal","Social ~ Social",2,1,0,4847571,68475391,68475391
+"http://konect.uni-koblenz.de/downloads/tsv/livejournal-groupmemberships.tar.bz2","LG","LiveJournal","Affiliation ~ Affiliation",3,1,0,10690276,112307385,112307385
+"http://konect.uni-koblenz.de/downloads/tsv/livejournal-links.tar.bz2","Lj","LiveJournal links","Social ~ Social",1,1,0,5204176,49174620,49174620
+"http://konect.uni-koblenz.de/downloads/tsv/dbpedia-location.tar.bz2","LO","Location","Feature ~ Feature",3,1,0,225498,293697,293697
+"http://konect.uni-koblenz.de/downloads/tsv/moreno_mac.tar.bz2","MQ","Macaques","Animal ~ Animal",2,3,0,62,1187,1187
+"http://konect.uni-koblenz.de/downloads/tsv/radoslaw_email.tar.bz2","RA","Manufacturing emails","Communication ~ Communication",2,2,2,167,82927,5784
+"http://konect.uni-koblenz.de/downloads/tsv/movielens-100k_rating.tar.bz2","M1","MovieLens 100k","Rating ~ Rating",3,6,1,2625,100000,100000
+"http://konect.uni-koblenz.de/downloads/tsv/movielens-10m_rating.tar.bz2","M3","MovieLens 10M","Rating ~ Rating",3,6,1,80555,10000054,10000054
+"http://konect.uni-koblenz.de/downloads/tsv/movielens-1m.tar.bz2","M2","MovieLens 1M","Rating ~ Rating",3,6,1,9746,1000209,1000209
+"http://konect.uni-koblenz.de/downloads/tsv/movielens-10m_ti.tar.bz2","Mti","MovieLens tag–movie","Folksonomy ~ Folksonomy",3,2,1,24129,95580,71154
+"http://konect.uni-koblenz.de/downloads/tsv/movielens-10m_ui.tar.bz2","Mui","MovieLens user–movie","Folksonomy ~ Folksonomy",3,2,1,11610,95580,55484
+"http://konect.uni-koblenz.de/downloads/tsv/movielens-10m_ut.tar.bz2","Mut","MovieLens user–tag","Folksonomy ~ Folksonomy",3,2,1,20537,95580,43760
+"http://konect.uni-koblenz.de/downloads/tsv/dbpedia-starring.tar.bz2","ST","Movies","Feature ~ Feature",3,1,0,157184,281396,281396
+,"NX","Netflix","Rating ~ Rating",3,6,1,497959,100480507,
+"http://konect.uni-koblenz.de/downloads/tsv/web-NotreDame.tar.bz2","ND","Notre Dame","Hyperlink ~ Hyperlink",2,1,1,325729,1497134,1497134
+"http://konect.uni-koblenz.de/downloads/tsv/dbpedia-occupation.tar.bz2","OC","Occupation","Affiliation ~ Affiliation",3,1,0,229307,250945,250945
+"http://konect.uni-koblenz.de/downloads/tsv/opsahl-openflights.tar.bz2","OF","OpenFlights","Infrastructure ~ Infrastructure",2,1,0,2939,30501,30501
+"http://konect.uni-koblenz.de/downloads/tsv/orkut-groupmemberships.tar.bz2","OG","Orkut","Affiliation ~ Affiliation",3,1,0,11514053,327037487,327037487
+"http://konect.uni-koblenz.de/downloads/tsv/orkut-links.tar.bz2","OR","Orkut","Social ~ Social",1,1,0,3072441,117185083,117185083
+"http://konect.uni-koblenz.de/downloads/tsv/maayan-pdzbase.tar.bz2","MP","PDZBase","Metabolic ~ Metabolic",1,1,1,212,244,244
+"http://konect.uni-koblenz.de/downloads/tsv/roadNet-PA.tar.bz2","RD","Pennsylvania","Infrastructure ~ Infrastructure",1,1,0,1088092,1541898,1541898
+"http://konect.uni-koblenz.de/downloads/tsv/moreno_innovation.tar.bz2","MI","Physicians","HumanSocial ~ HumanSocial",2,1,0,241,1098,1098
+"http://konect.uni-koblenz.de/downloads/tsv/soc-pokec-relationships.tar.bz2","PL","Pokec","Social ~ Social",2,1,0,1632803,30622564,30622564
+"http://konect.uni-koblenz.de/downloads/tsv/arenas-pgp.tar.bz2","PG","Pretty Good Privacy","OnlineContact ~ OnlineContact",1,1,1,10680,24316,24316
+"http://konect.uni-koblenz.de/downloads/tsv/dbpedia-producer.tar.bz2","PR","Producers","Authorship ~ Authorship",3,1,0,187677,207268,207268
+"http://konect.uni-koblenz.de/downloads/tsv/prosper-loans.tar.bz2","PL","Prosper loans","Interaction ~ Interaction",2,2,1,89269,3394979,3330225
+,"PW","Prosper.com","Interaction ~ Interaction",3,1,0,23965,35377,
+,"PS","Prosper.com","Affiliation ~ Affiliation",3,1,0,7595,21017,
+"http://konect.uni-koblenz.de/downloads/tsv/moreno_propro.tar.bz2","Mp","Protein","Metabolic ~ Metabolic",1,1,0,1870,2277,2277
+"http://konect.uni-koblenz.de/downloads/tsv/reactome.tar.bz2","RC","Reactome","Metabolic ~ Metabolic",1,1,0,6327,147547,147547
+"http://konect.uni-koblenz.de/downloads/tsv/mit.tar.bz2","RM","Reality Mining","HumanContact ~ HumanContact",1,2,1,96,1086404,2539
+"http://konect.uni-koblenz.de/downloads/tsv/dbpedia-recordlabel.tar.bz2","RL","Record labels","Affiliation ~ Affiliation",3,1,0,186758,233286,233286
+"http://konect.uni-koblenz.de/downloads/tsv/moreno_oz.tar.bz2","MO","Residence hall","HumanSocial ~ HumanSocial",2,6,0,217,2672,2672
+"http://konect.uni-koblenz.de/downloads/tsv/reuters.tar.bz2","RE","Reuters","Text ~ Text",3,2,1,1065176,60569726,60569726
+"http://konect.uni-koblenz.de/downloads/tsv/gottron-reuters.tar.bz2","R2","Reuters-21578","Text ~ Text",3,2,0,60234,978446,978446
+"http://konect.uni-koblenz.de/downloads/tsv/moreno_rhesus.tar.bz2","MR","Rhesus","Animal ~ Animal",2,3,0,16,111,111
+"http://konect.uni-koblenz.de/downloads/tsv/as20000102.tar.bz2","AS","Route views","Computer ~ Computer",1,1,2,6474,13895,13895
+"http://konect.uni-koblenz.de/downloads/tsv/moreno_sampson.tar.bz2","Ms","Sampson","HumanSocial ~ HumanSocial",2,6,0,18,188,171
+"http://konect.uni-koblenz.de/downloads/tsv/moreno_seventh.tar.bz2","MX","Seventh graders","HumanSocial ~ HumanSocial",2,3,1,29,376,376
+"http://konect.uni-koblenz.de/downloads/tsv/escorts.tar.bz2","SX","Sexual escorts","Rating ~ Rating",3,7,1,16730,50632,35051
+"http://konect.uni-koblenz.de/downloads/tsv/moreno_sheep.tar.bz2","Mc","Sheep","Animal ~ Animal",2,3,1,28,250,250
+"http://konect.uni-koblenz.de/downloads/tsv/as-skitter.tar.bz2","SK","Skitter","Computer ~ Computer",1,1,0,1696415,11095298,11095298
+"http://konect.uni-koblenz.de/downloads/tsv/slashdot-threads.tar.bz2","SD","Slashdot threads","Communication ~ Communication",2,2,2,51083,140778,131175
+"http://konect.uni-koblenz.de/downloads/tsv/slashdot-zoo.tar.bz2","SZ","Slashdot Zoo","Social ~ Social",2,4,0,79120,515397,515397
+"http://konect.uni-koblenz.de/downloads/tsv/brunson_south-africa.tar.bz2","SC","South African Companies","Affiliation ~ Affiliation",3,1,0,11,13,13
+"http://konect.uni-koblenz.de/downloads/tsv/opsahl-southernwomen.tar.bz2","SW","Southern women 1","Interaction ~ Interaction",3,1,0,32,89,89
+"http://konect.uni-koblenz.de/downloads/tsv/brunson_southern-women.tar.bz2","Sw","Southern women 2","Interaction ~ Interaction",3,1,0,10,14,14
+"http://konect.uni-koblenz.de/downloads/tsv/lasagne-spanishbook.tar.bz2","SB","Spanish book","Lexical ~ Lexical",2,2,1,12643,57772,57453
+"http://konect.uni-koblenz.de/downloads/tsv/stackexchange-stackoverflow.tar.bz2","SO","Stack Overflow","Rating ~ Rating",3,1,1,641876,1301942,1301942
+"http://konect.uni-koblenz.de/downloads/tsv/web-Stanford.tar.bz2","SF","Stanford","Hyperlink ~ Hyperlink",2,1,0,281903,2312497,2312497
+"http://konect.uni-koblenz.de/downloads/tsv/moreno_taro.tar.bz2","MT","Taro exchange","HumanSocial ~ HumanSocial",2,1,0,22,78,78
+"http://konect.uni-koblenz.de/downloads/tsv/dbpedia-team.tar.bz2","TM","Teams","Affiliation ~ Affiliation",3,1,0,935627,1366466,1366466
+"http://konect.uni-koblenz.de/downloads/tsv/roadNet-TX.tar.bz2","R1","Texas","Infrastructure ~ Infrastructure",1,1,0,1379917,1921660,1921660
+"http://konect.uni-koblenz.de/downloads/tsv/moreno_train.tar.bz2","Mt","Train bombing","HumanContact ~ HumanContact",1,3,0,64,243,243
+"http://konect.uni-koblenz.de/downloads/tsv/gottron-trec.tar.bz2","TR","TREC (disks 4–5)","Text ~ Text",3,2,0,1729302,83629405,83629405
+"http://konect.uni-koblenz.de/downloads/tsv/trec-wt10g.tar.bz2","WT","TREC WT10g","Hyperlink ~ Hyperlink",2,1,0,1601787,8063026,8063026
+,"Wa","Twitter","OnlineContact ~ OnlineContact",2,2,2,2919613,12887063,
+"http://konect.uni-koblenz.de/downloads/tsv/munmun_twitter_social.tar.bz2","Ws","Twitter (ICWSM)","Social ~ Social",2,1,0,465017,834797,834797
+"http://konect.uni-koblenz.de/downloads/tsv/twitter_mpi.tar.bz2","TF","Twitter (MPI)","Social ~ Social",2,1,0,52579682,1963263821,
+"http://konect.uni-koblenz.de/downloads/tsv/twitter.tar.bz2","TW","Twitter (WWW)","Social ~ Social",2,1,0,41652230,1468365182,
+,"Wti","Twitter hashtag–URL","Folksonomy ~ Folksonomy",3,2,2,1502611,2635885,
+"http://konect.uni-koblenz.de/downloads/tsv/ego-twitter.tar.bz2","TL","Twitter lists","Social ~ Social",2,1,0,23370,33101,33101
+,"Wut","Twitter user–hashtag","Folksonomy ~ Folksonomy",3,2,2,705632,4664605,
+,"Wui","Twitter user–URL","Folksonomy ~ Folksonomy",3,2,2,9374206,12656613,
+"http://konect.uni-koblenz.de/downloads/tsv/arenas-email.tar.bz2","A@","U. Rovira i Virgili","Communication ~ Communication",1,1,1,1133,5451,5451
+"http://konect.uni-koblenz.de/downloads/tsv/opsahl-ucforum.tar.bz2","UF","UC Irvine forum","Interaction ~ Interaction",3,2,1,1421,33720,7089
+"http://konect.uni-koblenz.de/downloads/tsv/opsahl-ucsocial.tar.bz2","UC","UC Irvine messages","Communication ~ Communication",2,2,1,1899,59835,20296
+"http://konect.uni-koblenz.de/downloads/tsv/opsahl-usairport.tar.bz2","AF","US airports","Infrastructure ~ Infrastructure",2,3,0,1574,28236,28236
+"http://konect.uni-koblenz.de/downloads/tsv/patentcite.tar.bz2","PC","US patents","Citation ~ Citation",2,1,1,3774768,16518947,16518947
+"http://konect.uni-koblenz.de/downloads/tsv/opsahl-powergrid.tar.bz2","UG","US power grid","Infrastructure ~ Infrastructure",1,1,0,4941,6594,6594
+"http://konect.uni-koblenz.de/downloads/tsv/pics_ti.tar.bz2","Vti","vi.sualize.us tag–picture","Folksonomy ~ Folksonomy",3,2,0,577437,2298816,1800330
+"http://konect.uni-koblenz.de/downloads/tsv/pics_ui.tar.bz2","Vui","vi.sualize.us user–picture","Folksonomy ~ Folksonomy",3,2,0,512524,2298816,997840
+"http://konect.uni-koblenz.de/downloads/tsv/pics_ut.tar.bz2","Vut","vi.sualize.us user–tag","Folksonomy ~ Folksonomy",3,2,0,99157,2298816,449503
+,"WU","WebUni Magdeburg","Text ~ Text",3,2,1,206350,3312112,
+"http://konect.uni-koblenz.de/downloads/tsv/edit-enwikibooks.tar.bz2","ben","Wikibooks (en)","Authorship ~ Authorship",3,2,1,167525,1164576,387283
+"http://konect.uni-koblenz.de/downloads/tsv/edit-frwikibooks.tar.bz2","bfr","Wikibooks (fr)","Authorship ~ Authorship",3,2,1,30997,201727,67613
+"http://konect.uni-koblenz.de/downloads/tsv/edit-enwikinews.tar.bz2","nen","Wikinews (en)","Authorship ~ Authorship",3,2,1,173772,901416,354157
+"http://konect.uni-koblenz.de/downloads/tsv/edit-frwikinews.tar.bz2","nfr","Wikinews (fr)","Authorship ~ Authorship",3,2,1,26546,193618,68703
+"http://konect.uni-koblenz.de/downloads/tsv/edit-dewiki.tar.bz2","de","Wikipedia (de)","Authorship ~ Authorship",3,2,1,3620990,57323775,26011353
+"http://konect.uni-koblenz.de/downloads/tsv/gottron-excellent.tar.bz2","EX","Wikipedia (en)","Text ~ Text",3,2,0,276739,2941902,2941902
+"http://konect.uni-koblenz.de/downloads/tsv/edit-enwiki.tar.bz2","en","Wikipedia (en)","Authorship ~ Authorship",3,2,1,25323882,266769613,122075170
+"http://konect.uni-koblenz.de/downloads/tsv/wiki-en-cat.tar.bz2","WC","Wikipedia (en)","Feature ~ Feature",3,1,0,2036440,3795796,3795796
+"http://konect.uni-koblenz.de/downloads/tsv/edit-eswiki.tar.bz2","es","Wikipedia (es)","Authorship ~ Authorship",3,2,1,3288398,27011506,13011547
+"http://konect.uni-koblenz.de/downloads/tsv/edit-frwiki.tar.bz2","fr","Wikipedia (fr)","Authorship ~ Authorship",3,2,1,4310551,46168355,22090703
+"http://konect.uni-koblenz.de/downloads/tsv/edit-itwiki.tar.bz2","it","Wikipedia (it)","Authorship ~ Authorship",3,2,1,2393568,26241217,12644802
+"http://konect.uni-koblenz.de/downloads/tsv/wikiconflict.tar.bz2","CO","Wikipedia conflict","OnlineContact ~ OnlineContact",1,4,2,118100,2917785,2014066
+"http://konect.uni-koblenz.de/downloads/tsv/elec.tar.bz2","EL","Wikipedia elections","OnlineContact ~ OnlineContact",2,4,3,7118,103675,103675
+"http://konect.uni-koblenz.de/downloads/tsv/wikipedia_link_de.tar.bz2","Wde","Wikipedia links  de","Hyperlink ~ Hyperlink",2,2,1,2933575,70167668,70167471
+"http://konect.uni-koblenz.de/downloads/tsv/wikipedia_link_en.tar.bz2","Wen","Wikipedia links  en","Hyperlink ~ Hyperlink",2,2,1,11196007,340309824,340298348
+"http://konect.uni-koblenz.de/downloads/tsv/wikipedia_link_fr.tar.bz2","Wfr","Wikipedia links  fr","Hyperlink ~ Hyperlink",2,2,1,2889701,88818373,88817451
+"http://konect.uni-koblenz.de/downloads/tsv/wikipedia_link_it.tar.bz2","Wit","Wikipedia links  it","Hyperlink ~ Hyperlink",2,2,1,1703605,86548398,86547025
+"http://konect.uni-koblenz.de/downloads/tsv/wikipedia_link_ja.tar.bz2","Wja","Wikipedia links  ja","Hyperlink ~ Hyperlink",2,2,1,1490443,62385691,62385451
+"http://konect.uni-koblenz.de/downloads/tsv/wikipedia_link_pl.tar.bz2","Wpl","Wikipedia links  pl","Hyperlink ~ Hyperlink",2,2,1,1399974,51996883,51996640
+"http://konect.uni-koblenz.de/downloads/tsv/wikipedia_link_pt.tar.bz2","Wpt","Wikipedia links  pt","Hyperlink ~ Hyperlink",2,2,1,1465820,41065076,41064630
+"http://konect.uni-koblenz.de/downloads/tsv/wikipedia_link_ru.tar.bz2","Wru","Wikipedia links  ru","Hyperlink ~ Hyperlink",2,2,1,2311082,70530667,70530576
+"http://konect.uni-koblenz.de/downloads/tsv/link-dynamic-dewiki.tar.bz2","Ug","Wikipedia  de (dynamic)","Hyperlink ~ Hyperlink",2,8,2,2166669,86337879,31105755
+"http://konect.uni-koblenz.de/downloads/tsv/wiki-Talk.tar.bz2","WK","Wikipedia  English","Communication ~ Communication",2,1,0,2394385,5021410,5021410
+"http://konect.uni-koblenz.de/downloads/tsv/dbpedia-link.tar.bz2","DL","Wikipedia  English","Hyperlink ~ Hyperlink",2,2,0,18268992,172183984,136537566
+"http://konect.uni-koblenz.de/downloads/tsv/wikipedia-growth.tar.bz2","WP","Wikipedia  English","Hyperlink ~ Hyperlink",2,1,1,1870709,39953145,39953145
+"http://konect.uni-koblenz.de/downloads/tsv/link-dynamic-frwiki.tar.bz2","Uf","Wikipedia  fr (dynamic)","Hyperlink ~ Hyperlink",2,8,2,2212682,59008831,24440537
+"http://konect.uni-koblenz.de/downloads/tsv/link-dynamic-itwiki.tar.bz2","Ui","Wikipedia  it (dynamic)","Hyperlink ~ Hyperlink",2,8,2,1204009,34826283,17086845
+"http://konect.uni-koblenz.de/downloads/tsv/link-dynamic-nlwiki.tar.bz2","Ud","Wikipedia  nl (dynamic)","Hyperlink ~ Hyperlink",2,8,2,1039252,20070561,10612491
+"http://konect.uni-koblenz.de/downloads/tsv/link-dynamic-plwiki.tar.bz2","Up","Wikipedia  pl (dynamic)","Hyperlink ~ Hyperlink",2,8,2,1033050,25026208,12587086
+"http://konect.uni-koblenz.de/downloads/tsv/link-dynamic-simplewiki.tar.bz2","Us","Wikipedia  simple en (dynamic)","Hyperlink ~ Hyperlink",2,8,2,100312,1627472,746086
+"http://konect.uni-koblenz.de/downloads/tsv/edit-enwikiquote.tar.bz2","qen","Wikiquote (en)","Authorship ~ Authorship",3,2,1,116363,549210,238714
+"http://konect.uni-koblenz.de/downloads/tsv/wikisigned-k2.tar.bz2","W2","WikiSigned","OnlineContact ~ OnlineContact",2,4,1,138592,740397,740397
+"http://konect.uni-koblenz.de/downloads/tsv/edit-dewiktionary.tar.bz2","mde","Wiktionary (de)","Authorship ~ Authorship",3,2,1,151982,1229501,687214
+"http://konect.uni-koblenz.de/downloads/tsv/edit-enwiktionary.tar.bz2","men","Wiktionary (en)","Authorship ~ Authorship",3,2,1,2133892,8998641,5573038
+"http://konect.uni-koblenz.de/downloads/tsv/edit-frwiktionary.tar.bz2","mfr","Wiktionary (fr)","Authorship ~ Authorship",3,2,1,1912264,7399298,4794894
+"http://konect.uni-koblenz.de/downloads/tsv/moreno_beach.tar.bz2","MW","Windsurfers","HumanContact ~ HumanContact",1,3,0,43,336,336
+"http://konect.uni-koblenz.de/downloads/tsv/wordnet-words.tar.bz2","WO","WordNet","Lexical ~ Lexical",1,1,0,146005,656999,656999
+"http://konect.uni-koblenz.de/downloads/tsv/dbpedia-writer.tar.bz2","WR","Writers","Authorship ~ Authorship",3,1,0,135569,144340,144340
+,"YD","Yahoo advertisers","Lexical ~ Lexical",2,1,1,653260,2931708,
+,"YS","Yahoo songs","Rating ~ Rating",3,6,1,1625951,256804235,
+"http://konect.uni-koblenz.de/downloads/tsv/youtube-u-growth.tar.bz2","YT","YouTube","Social ~ Social",1,1,1,3223589,9375374,9375374
+"http://konect.uni-koblenz.de/downloads/tsv/youtube-groupmemberships.tar.bz2","YG","YouTube","Affiliation ~ Affiliation",3,1,0,124325,293360,293360
+"http://konect.uni-koblenz.de/downloads/tsv/com-youtube.tar.bz2","CY","Youtube friendship","Social ~ Social",1,1,0,1134890,2987624,2987624
+"http://konect.uni-koblenz.de/downloads/tsv/youtube-links.tar.bz2","LY","Youtube links","Social ~ Social",2,1,1,1138499,4942297,4942297
+"http://konect.uni-koblenz.de/downloads/tsv/ucidata-zachary.tar.bz2","ZA","Zachary karate club","HumanSocial ~ HumanSocial",1,1,0,34,78,78
+"http://konect.uni-koblenz.de/downloads/tsv/moreno_zebra.tar.bz2","MZ","Zebra","Animal ~ Animal",1,1,0,27,111,111
