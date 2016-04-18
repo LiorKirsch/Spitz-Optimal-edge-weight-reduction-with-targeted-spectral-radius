@@ -28,6 +28,10 @@ To solve the problem using the dynamical importance method:
 ```matlab
 X_dynamical_importance = binary_deletion_dynamical_importance(A, beta, options);
 ``` 
+To get the discrete soultion from continuous solution:
+```matlab
+W_binary = remove_edges_binarysearch( A, X_dykstra_v ,beta);
+``` 
 
 ### The vertices problem:
 For the vertices problem you also need to create a "vertices influence matrix":
@@ -47,7 +51,10 @@ To solve the problem using the dynamical importance method:
 X_dynamical_importance_v = binary_deletion_dynamical_importance_vertices(A, beta, options);
 ``` 
 
-
+To get the discrete soultion from continuous solution:
+```matlab
+W_binary = remove_vertices_logsearch( A, X_dykstra_v ,beta);
+``` 
 
 To reproduce the experiment you can download the networks from koblenz network data:
 Go to the `data` folder and run the script `download_networks.m`. 
@@ -59,4 +66,11 @@ The `data` folder contains data for the real world networks.
 
 The `lbfgs` folder contains functions to run lbfgs with box constraints provided by Stephen Becker and Peter Carbonetto
 http://www.mathworks.com/matlabcentral/fileexchange/35104-lbfgsb--l-bfgs-b--mex-wrapper
+
+The Dynamical importance method was implemented from the paper by Restrepo et al.
+http://arxiv.org/abs/cond-mat/0606122
+
+Second order Dynamical importance by Milanese et al.
+http://journals.aps.org/pre/abstract/10.1103/PhysRevE.81.046112
+
 
